@@ -42,8 +42,8 @@ class _MyHomePageState extends State<CusBottomNavigationBar> {
               child: Column(
                 children: [
                   Icon(
-                    IconFontIcons.iconBgPrevious,
-                    size: 20,
+                    IconFontIcons.iconWangyiyun1,
+                    size: 25,
                     color: widget.currentIndex ==
                             CusBottomNavigationBarType.find.index
                         ? redColor
@@ -71,8 +71,8 @@ class _MyHomePageState extends State<CusBottomNavigationBar> {
               child: Column(
                 children: [
                   Icon(
-                    IconFontIcons.iconBgPrevious,
-                    size: 20,
+                    IconFontIcons.iconLeida,
+                    size: 26,
                     color: widget.currentIndex ==
                             CusBottomNavigationBarType.blog.index
                         ? redColor
@@ -100,8 +100,8 @@ class _MyHomePageState extends State<CusBottomNavigationBar> {
               child: Column(
                 children: [
                   Icon(
-                    IconFontIcons.iconBgPrevious,
-                    size: 20,
+                    IconFontIcons.iconDiantai,
+                    size: 26,
                     color: widget.currentIndex ==
                             CusBottomNavigationBarType.roaming.index
                         ? redColor
@@ -129,8 +129,8 @@ class _MyHomePageState extends State<CusBottomNavigationBar> {
               child: Column(
                 children: [
                   Icon(
-                    IconFontIcons.iconBgPrevious,
-                    size: 20,
+                    IconFontIcons.iconDongtai,
+                    size: 26,
                     color: widget.currentIndex ==
                             CusBottomNavigationBarType.dynamic.index
                         ? redColor
@@ -158,8 +158,8 @@ class _MyHomePageState extends State<CusBottomNavigationBar> {
               child: Column(
                 children: [
                   Icon(
-                    IconFontIcons.iconBgPrevious,
-                    size: 20,
+                    IconFontIcons.iconYinle,
+                    size: 26,
                     color: widget.currentIndex ==
                             CusBottomNavigationBarType.mine.index
                         ? redColor
